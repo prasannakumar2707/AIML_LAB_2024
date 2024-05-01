@@ -3,3 +3,5 @@
 3 .[assign 3] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab03_AIML.ipynb)
 4 .[assign 4] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab04_AIML.ipynb)
 5 .[assign 5] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab05_AIML.ipynb)
+6 .[assign 6] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab06_AIML.ipynb)
+7 .[assign 7] ()
