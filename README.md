@@ -7,4 +7,4 @@
 7 .[assign 7] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab07_SVM.ipynb)
 8 .[assign 8] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab08_Decision_Tree.ipynb)
 9 .[assign 9] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab09_RF_Classification.ipynb)
-10 .[assign 10] ()
+10 .[assign 10] (https://github.com/prasannakumar2707/AIML_LAB_2024/blob/main/Lab10_KMeans.ipynb)
